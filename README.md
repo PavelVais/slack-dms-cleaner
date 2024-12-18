@@ -27,7 +27,7 @@ When you open the console for the first time, your browser may display a warning
 
 ### Step 3: Paste and Run the Script
 
-1. Copy the script from [index.js](`index.js`).
+1. Copy the script from [index.js](index.js).
 2. Open the **Console** tab in Developer Tools.
 3. Paste the script and press `Enter` to activate it.
 
